@@ -60,16 +60,6 @@ If needed, we can provide a converter script for DOTA and VisDrone datasets.
 
 ---
 
-Absolutely bro! Since you're helping the public and you used **Roboflow for dataset preprocessing (snippet format, augmentation like rotation, etc.)**, and you also want people to run it directly on **Google Colab**, I’ll give you a **step-by-step section** that explains:
-
-* How you created the dataset
-* How others can load it automatically
-* How it appears in Colab
-* How it connects with YOLOv8
-
----
-
-
 ---
 
 🔄 Dataset Preparation via Roboflow
